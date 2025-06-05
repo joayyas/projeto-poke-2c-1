@@ -3,15 +3,16 @@ import eevee from './assets/eevee.jpg'
 import './Home.css'
 import PokeGrid from './PokeGrid'
 import PokeFlex from './PokeFlex'
-
+ 
 const Home = () => {
-
+ 
     return (
         <div>
-            <PokeGrid/>
-            <PokeFlex/>
+            <PokeGrid />
+            <PokeFlex />  
         </div>
     )
 }
-
+ 
 export default Home
+ 
